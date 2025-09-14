@@ -3,3 +3,7 @@ Description: Provide canvas height & width & color (black or white). Then
 provide a shape to draw. Then enter a starting x & y point -> shape height
 & width & color( RGB). Then ask for another shape or quit. After finishing
 create a png/jpg of the resulting photo
+Objects:
+Canvas - size, background color (b or w)
+Shape - starting point, size, color (rgb)
+photo - generate a photo
